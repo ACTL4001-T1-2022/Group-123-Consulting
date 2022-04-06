@@ -29,7 +29,16 @@ The winning prize is estimated using the 2022 FIFA winning prize, the hefty sum 
 Additionally, by building a world class football stadium in 2022, supplemental revenue by renting out the venue can be generated. This revenue source is included in the commercial. 
 
 ### Expense Projection
+
+The total expense includes two main categories, staff costs and other expenses. Of which, ∂99.86 million is attributed to the salary of football players.
+
+The total expense for Rarita is expected to be higher in 2022 due to initial costs such as the stadium construction which costs approximately ∂520 million, developing team selection model, staff hiring, building training amenities and other facilities.
+
 ### Net Profit Projection
+
+Rarita will experience loss for the first two years due to the large allocation to the stadium construction, however, will achieve a positive net profit for the remaining years. Despite the negative net profits, the initial investment of ∂ 995 million will act as a buffer to offset those losses. 
+A positive net profit NPV demonstrates the sustainability and profitability of investing in a national football team.
+
 ### GDP Projection
 ### Macroeconomics
 
