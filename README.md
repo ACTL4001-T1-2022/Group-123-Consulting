@@ -1,6 +1,6 @@
 # Rarita's National Football Team Project
 <p align="center">
-<img src="header.png"  width="1280" height="500"/>
+<img src="Annual Report Cover Template (Email Header).pdf"  width="1280" height="500"/>
 </p>
 ## Group 123
 
