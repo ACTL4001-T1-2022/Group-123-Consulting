@@ -1,6 +1,6 @@
 # Rarita's National Football Team Project
 <p align="center">
-<img src="header.png"/>
+<img src="header.png" width="1200" height="500"/>
 </p>
 ## Group 123
 
