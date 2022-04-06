@@ -22,6 +22,12 @@
 
 ## Economic Impact
 ### Revenue Projection
+
+The total revenue for Rarita is projected to increase gradually across 2022 to 2031.
+
+The winning prize is estimated using the 2022 FIFA winning prize, the hefty sum of winning the championship will significantly affect revenue growth during the championship year. Other revenue sources will also be impacted by the championship, resulting a sharp increase in total revenue during the championship year (See Figure 2). The revenue growth remains relatively stable for all other years.	 
+Additionally, by building a world class football stadium in 2022, supplemental revenue by renting out the venue can be generated. This revenue source is included in the commercial. 
+
 ### Expense Projection
 ### Net Profit Projection
 ### GDP Projection
