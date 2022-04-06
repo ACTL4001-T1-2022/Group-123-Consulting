@@ -14,7 +14,19 @@
 
 ## Executive Summary
 
+In light of recent trends where “competitive” sport teams have benefited one’s economy considerably, this project is jointly executed with Rarita’s Commissioner of sport, Hammessi Bayes to construct a sustainable and “competitive” national team with a goal of achieving positive economic impact for Rarita. An initial fund of 995 million Doubloons (∂) were allocated for the project with additional capital raised through various revenue streams outlined within the report. 
+
+This project employs empirical datasets of player statistics across 55 countries within leagues and tournaments held across 2020 to 2021 provided by the Society of Actuaries (SOA) for the national team selection and Brazilian FIFA along with GDP dataset to determine correlations between competitiveness and GDP growth. 
+
+A final team selection was constructed via rigorous modelling involving logistic regression and best subset selection in considerations of qualitative measures such as salary, teamwork, and team formation. With a GDP growth of 2.32% and a revenue growth of 5.79% prior to winning a championship, the project is anticipated to project a supplemental 1.88% and 9.21% of growth respectively after winning the championship title, boosting Rarita’s economy significantly. Further, a high net present value (NPV) of ∂ 14,496.06 million computed from the 10-year net profit associated with the national team emphasizes the profitability and sustainability of the project. 
+
+Finally, the construction of the national team is reinforced with a 10-year implementation plan detailing main events, mitigation strategies of main risks the projects may face and key metrics to monitor team performance.   
+
+
 ## Objectives
+
+With a goal to increase Rarita’s global visibility and achieve positive economic impact, Rarita has decided to construct a competitive and sustainable football squad amongst domestic players to enter the world of International Football. The soccer team’s “competitiveness” is further quantified and elaborated in Appendix A. With a limited budget of 995 million Doubloons, the project’s objective is to fulfill this goal through a comprehensive team selection process, a resilient risk mitigation framework, along with a detailed implementation plan and economic projections for the next 10 years incorporating a sensitivity analysis. 
+
 
 ## Team Selection
 ### Basic Formation
