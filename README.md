@@ -8,7 +8,7 @@
 * Erica Soenarjo
 * Viana Francisca Dewi
 * Hiu Ming Yip
-* Yolanda Li hi
+* Yolanda Li
 
 ## Executive Summary
 
