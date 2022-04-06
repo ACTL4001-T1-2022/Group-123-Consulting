@@ -1,5 +1,7 @@
 # Rarita's National Football Team Project
-[image](ACC.png)
+<p align="center">
+<img src="header.png"/>
+</p>
 ## Group 123
 
 ### Author: 
