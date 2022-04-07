@@ -49,9 +49,9 @@
       <ol>
         <li><a href="#key-assumptions">Key Assumptions</a></li>
         <li><a href="#quantitative-assumptions">Quantitative Assumptions</a></li>
-       <ol>
-    </li>
-     <li>
+       </ol>
+    </li>      
+  <li>
       <a href="#risk-and-risk-mitigation-strategies">Risk and Risk Mitigation Strategies</a>
     </li>
   </ol>
