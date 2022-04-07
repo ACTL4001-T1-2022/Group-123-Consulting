@@ -12,8 +12,9 @@
 * Yolanda Li
 
 
-## Table of Contents
+<!-- TABLE OF CONTENTS -->
 <details open>
+  <summary style = "font-size:13pt;">Table of Contents</summary>
   <ol>
     <li>
       <a href="#executive-summary">Executive Summary</a>
@@ -61,6 +62,12 @@
         <li><a href="#Sensitivity-Analysis">Sensitivity Analysis</a></li>
        </ol>
    </li>
+   <li>
+      <a href="#references">References</a>
+    </li>
+     <li>
+      <a href="#appendices">Appendix (pending)</a>
+    </li>
   </ol>
 </details>
 
