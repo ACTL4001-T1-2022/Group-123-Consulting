@@ -17,7 +17,7 @@
   <summary style = "font-size:13pt;">Table of Contents</summary>
   <ol>
     <li>
-      <a href="#executice-summary">Executice Summary</a>
+      <a href="#executive-summary">Executive Summary</a>
     </li>
     <li>
       <a href="#project-summary">Project Summary</a>
