@@ -1,8 +1,7 @@
-# Rarita's National Football Team Project
 <p align="center">
-<img src="Annual Report Cover Template (Email Header).pdf"  width="1280" height="500"/>
+<img src="header.png"  width="1280" height="400"/>
 </p>
-## Group 123
+
 
 ### Author: 
 >
@@ -35,13 +34,18 @@ With a goal to increase Rarita’s global visibility and achieve positive econom
 ### Alternative Formations
 ### Other Considerations
 
-## Economic Impact
+## Economic Impact  
 ### Revenue Projection
+
 
 The total revenue for Rarita is projected to increase gradually across 2022 to 2031.
 
-The winning prize is estimated using the 2022 FIFA winning prize, the hefty sum of winning the championship will significantly affect revenue growth during the championship year. Other revenue sources will also be impacted by the championship, resulting a sharp increase in total revenue during the championship year (See Figure 2). The revenue growth remains relatively stable for all other years.	 
+The winning prize is estimated using the 2022 FIFA winning prize, the hefty sum of winning the championship will significantly affect revenue growth during the championship year. Other revenue sources will also be impacted by the championship, resulting a sharp increase in total revenue during the championship year. The revenue growth remains relatively stable for all other years.	 
 Additionally, by building a world class football stadium in 2022, supplemental revenue by renting out the venue can be generated. This revenue source is included in the commercial. 
+
+<h1 align="center">
+ <img src="revenue.png" width="680" height="400"/>
+</h1>
 
 ### Expense Projection
 
@@ -49,18 +53,30 @@ The total expense includes two main categories, staff costs and other expenses. 
 
 The total expense for Rarita is expected to be higher in 2022 due to initial costs such as the stadium construction which costs approximately ∂520 million, developing team selection model, staff hiring, building training amenities and other facilities.
 
+<h1 align="center">
+ <img src="expense.png" width="680" height="400"/>
+</h1>
+
 ### Net Profit Projection
 
 Rarita will experience loss for the first two years due to the large allocation to the stadium construction, however, will achieve a positive net profit for the remaining years. Despite the negative net profits, the initial investment of ∂ 995 million will act as a buffer to offset those losses. 
 A positive net profit NPV demonstrates the sustainability and profitability of investing in a national football team.
 
+<h1 align="center">
+ <img src="profit.png" width="680" height="400"/>
+</h1>
+
 ### GDP Projection
 
-Rarita’s GDP is estimated by referencing the data of a real-life national football team, Brazil National Football Team, a renowned "competitive" team holding titles to 5 Federation Internationale de Football Association (FIFA) championships since 1930. Winning a championship may have been a significant attribute for GDP growth as shown in the steadily increasing trend in Brazil's GDP for almost 10 years after its last FIFA championship in 2002 (See Appendix B). 
+Rarita’s GDP is estimated by referencing the data of a real-life national football team, Brazil National Football Team, a renowned "competitive" team holding titles to 5 Federation Internationale de Football Association (FIFA) championships since 1930. Winning a championship may have been a significant attribute for GDP growth as shown in the steadily increasing trend in Brazil's GDP for almost 10 years after its last FIFA championship in 2002. 
 
-This observation underpins Rarita’s objectives. Therefore, the GDP growth rate for Brazil was used in projecting Rarita’s expected GDP. Incorporating the population growth, the GDP per Capita for Rarita will increase steadily and ended with ∂ 32,648 in 2031 (See Figure 5).
+This observation underpins Rarita’s objectives. Therefore, the GDP growth rate for Brazil was used in projecting Rarita’s expected GDP. Incorporating the population growth, the GDP per Capita for Rarita will increase steadily and ended with ∂ 32,648 in 2031.
 
-Figure 5 shows that the GDP per Capita for East Rarita would be the highest among the three provinces, while West Rarita would be the lowest. This can be accounted to the population differences in the three provinces.
+The figure below shows that the GDP per Capita for East Rarita would be the highest among the three provinces, while West Rarita would be the lowest. This can be accounted to the population differences in the three provinces.
+
+<h1 align="center">
+ <img src="gdppercapita.png" width="680" height="400"/>
+</h1>
 
 ### Macroeconomics
 
@@ -113,23 +129,6 @@ Correspondingly, this project would be beneficial to Rarita's microeconomic and 
 ## References
 
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
-
----
-
-### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
-
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
-
-This is written in markdown language. 
->
-* Click [4001 link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.
-* Click [5100 link](https://classroom.github.com/a/uVytCqDv) to accept your group assignment 
-
-#### Follow the [guide doc](Doc1.pdf) to submit your work. 
----
->Be creative! Feel free to link to embed your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), [image](ACC.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+<p align="center">
+<img src="footer.png"  width="1280" height="300"/>
+</p>
