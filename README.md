@@ -25,8 +25,10 @@
     <li>
       <a href="#team-selection">Team Selection</a>
       <ol>
-        <li><a href="#basic-formation"> Basic Formation</a></li>
-        <li><a href="#economic-impact">Economic Impact</a></li>
+        <li><a href="#basic-formation">Basic Formation</a></li>
+        <li><a href="#player-selection">Player Selection</a></li>
+        <li><a href="#alternative-formations">Alternative Formations</a></li>
+        <li><a href="#other-considerations">Other Considerations</a></li>
       </ol>
     </li>
     <li>
@@ -42,6 +44,7 @@
     </li>
   </ol>
 </details>
+
 
 ## Executive Summary
 
