@@ -86,11 +86,7 @@ Finally, the construction of the national team is reinforced with a 10-year impl
 
 ## Objectives
 
-With a goal to increase Rarita’s global visibility and achieve positive economic impact, Rarita has decided to construct a competitive and sustainable football squad amongst domestic players to enter the world of International Football. The soccer team’s “competitiveness” is further quantified and elaborated in    
-<li>
-      <a href="#executive-summary">Executive Summary</a>
-    </li>. 
-    With a limited budget of 995 million Doubloons, the project’s objective is to fulfill this goal through a comprehensive team selection process, a resilient risk mitigation framework, along with a detailed implementation plan and economic projections for the next 10 years incorporating a sensitivity analysis. 
+With a goal to increase Rarita’s global visibility and achieve positive economic impact, Rarita has decided to construct a competitive and sustainable football squad amongst domestic players to enter the world of International Football. The soccer team’s “competitiveness” is further quantified and elaborated in <a href="#executive-summary">Executive Summary</a> With a limited budget of 995 million Doubloons, the project’s objective is to fulfill this goal through a comprehensive team selection process, a resilient risk mitigation framework, along with a detailed implementation plan and economic projections for the next 10 years incorporating a sensitivity analysis. 
 
 
 ## Team Selection
