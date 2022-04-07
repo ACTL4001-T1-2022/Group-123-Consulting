@@ -227,6 +227,30 @@ The following risk maps rank the 4 relevant risks before and after the implement
 
 ## Data Limitations, Data Sources, and Sensitivity Analysis
 
+### Data Limitations 
+* An aggregate 8% of missing values were computed within given datasets, and this may cause significant bias against players of high potentials. 
+* Data anomalies were found where key performance figures displayed negative percentages and percentage values over 100%. Hence, to ensure the validity of the dataset, these obstructive data points were replaced by 0% and 100% respectively. 
+* ¾ of tournament datasets only included player statistics for 2021 whilst only 2 years’ worth of tournament results and league datasets were provided. With the limited performance statistics, the constructed team selection model may be restricting and inaccurate. 
+* Only final tournament rankings were documented; thus, the lack of individual match results may contribute to an imbalance of data. 
+
+### Data Sources
+League and tournament player statistics and results were provided by SOA and employed for building the team selection model. The Brazil FIFA and GDP data were referenced as a successful football club as for the analysis of a competitive sport team’s impact on the country’s GDP. 
+
+### Sensitivity Analysis 
+Changing the championship year affects the expected GDP. Figure 8 shows that the later the championship year, the lower the expected GDP. However, the model still stays within 10% of the expected GDP in the case of not winning at all.
+
+<h1 align="center">
+ <img src="SensitivityGDP.png">
+</h1>
+
+Model would stay within 10% of the expected NPV profit if between 2.34% – 5% inflation rate.
+
+<h1 align="center">
+ <img src="SensitivityNPV.png">
+</h1>
+
+
+
 ## References
 
 
