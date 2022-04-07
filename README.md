@@ -214,6 +214,16 @@ Below are the risks associated to the national football team project with their 
 | ------------- | ---------------  | ------------------- |
 | Data Overfitting Risk | The overdependence of player performance datasets across a limited 2 years may lead to overfitting and bias of data resulting in inaccurate reflection of current team performance. | A robust framework was established to regress significant all-rounded criteria in determining the success probabilities for the final team formation. |
 | Assumption Deviation Risk | Rarita’s economic condition and competitiveness in the next 10 years may differ from model expectations and key assumptions. This may lead to deviations of Rarita’s soccer team’s financial forecasts and projected GDP growth. | Sensitivity changes of key assumptions were considered during selection process and economic forecasts to provide adequate sustainability of the national team. |
+| Contingency Risk | Unforeseen events such as injured players, political divides within Rarita may adversely affect the final team performance hindering tourism, revenue, and GDP growth expectations. | Substitute players were accounted for to reduce disruptions to team’s performance. Contracts agreements with comprehensive considerations will also be drafted to minimize political and any unexpected risks. Lastly, an attentive and measurable implementation plan was developed to monitor team’s progress allowing for prompt actions to counter any contingency risks.|
+| Funding Risk | Accruing from preceding risks, funding risks may arise from the lack of capital due to cash flow disruptions in the maintenance of the soccer team or higher funding costs due to undesirable tournament outcomes. | Minimal capital margin for the soccer team is set up to reduce risks of insufficient funding. Staff training and conditions are optimized to boost team performance with regular focus on sponsorship type funding as team performance stabilizes. |
+
+The following risk maps rank the 4 relevant risks before and after the implementation of mitigation strategies outlined on a scale to 1 to 5 for the likelihood of it occurring as well as the impact it may have on Rarita. Risks that should be prioritized due to its high severity and probability are located at the top right corner of the graph.
+
+
+<h1 align="center">
+ <img src="gdppercapita.png" width="680" height="400"/>
+</h1>
+
 
 
 ## Data Limitations, Data Sources, and Sensitivity Analysis
