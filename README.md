@@ -12,7 +12,7 @@
 * Yolanda Li
 
 
-## Table of Contents <!-- TABLE OF CONTENTS -->
+## Table of Contents
 <details open>
   <summary style = "font-size:13pt;">Table of Contents</summary>
   <ol>
