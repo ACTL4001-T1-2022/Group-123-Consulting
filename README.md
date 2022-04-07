@@ -66,6 +66,27 @@ The scouted players are as follows.
 </p>
 
 ### Other Considerations
+Full Rarita domestic players are selected to play for the national team. There are 2 major advantages:
+> 
+* _Patriotism motivation_ - Players with a sense of belonging can perform better when they are playing for their country
+* _Reduce cost of loaning_ - Loaning players from other nations may cost extra variable expenses to the football team. 
+
+Majority of the players come from the same squad; hence the prevailing chemistry can enhance overall performance of team and reduce training time for team bonding.  
+
+<h1 align="center">
+ <img src="squad.png" width="353" height="119"/>
+</h1>
+
+Also, players are evenly distributed at age, this can allow sustainability and long-term development of the club.
+>
+* Experience old players can lead the team when the team is at the beginning of establishment.
+* Young players can stand alone after years of training and matches.
+
+The balance between old and young players constructs a beneficial cycle for the club’s sustainable development.
+
+<h1 align="center">
+ <img src="number.png" width="353" height="120"/>
+</h1>
 
 ## Economic Impact  
 ### Revenue Projection
