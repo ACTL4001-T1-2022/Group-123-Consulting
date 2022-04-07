@@ -48,7 +48,7 @@ The 11-player team is formed by analysing past performances of Rarita players in
 * Consider the average strengths of players in the same position and returns the success probability of achieving top 10 in the tournament
 * Best subset selection was used to filter the suitable factors contributing to the success of the team
 
-The scouted players are as follows.
+> _Scouted players_
 
 <h1 align="center">
  <img src="players.png" width="803" height="378"/>
