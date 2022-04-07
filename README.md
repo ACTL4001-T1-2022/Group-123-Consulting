@@ -33,7 +33,7 @@ With a goal to increase Rarita’s global visibility and achieve positive econom
 4-3-3 was chosen as the main formation of the team consisting of 3 forwards, 3 midfielders, 4 defenders, and 1 goalkeeper. This provides more tactical flexibility to strike a balance between offensive and defensive strategies by adjusting the midfielders to form other connotations like 4-5-1 and 4-2-3-1. Detailed positions of each player are illustrated below.
 
 <h1 align="center">
- <img src="formation.jpg" width="680" height="400"/>
+ <img src="formation.jpg" width="519" height="372"/>
 </h1>
 
 ### Basic Formation
