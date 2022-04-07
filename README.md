@@ -1,5 +1,5 @@
 <p align="center">
-<img src="header.png"  width="1000" height="400"/>
+<img src="header.png"  width="8000" height="400"/>
 </p>
 
 
@@ -193,5 +193,5 @@ Below are the risks associated to the national football team project with their 
 
 
 <p align="center">
-<img src="footer.png"  width="1000" height="300"/>
+<img src="footer.png"  width="8000" height="300"/>
 </p>
