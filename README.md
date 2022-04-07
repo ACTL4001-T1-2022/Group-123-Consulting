@@ -14,7 +14,6 @@
 
 ## Table of Contents
 <details open>
-  <summary style = "font-size:13pt;">-</summary>
   <ol>
     <li>
       <a href="#executive-summary">Executive Summary</a>
