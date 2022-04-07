@@ -10,9 +10,9 @@
 * Viana Francisca Dewi
 * Hiu Ming Yip
 * Yolanda Li
-<!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+
+## Table of Contents <!-- TABLE OF CONTENTS -->
 <details open>
   <summary style = "font-size:13pt;">Table of Contents</summary>
   <ol>
