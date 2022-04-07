@@ -286,9 +286,6 @@ Model would stay within 10% of the expected NPV profit if between 2.34% – 5% i
 ## References
 
 
-<p align="center">
-<img src="footer.png"  width="1000" height="300"/>
-</p>
 
 ## Appendices, Methodologies
 ### Appendix A
@@ -297,4 +294,7 @@ Quantified Measure of A Competitive Team
 * Secure a high probability of achieving the FSA championship within the first 10 years of entering the tournament 
 
 
+<p align="center">
+<img src="footer.png"  width="1000" height="300"/>
+</p>
 
