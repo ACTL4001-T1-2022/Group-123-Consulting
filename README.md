@@ -2,6 +2,11 @@
 <img src="banner.svg"  width="950" height="320"/>
 </p>
 
+<!-- PROJECT LOGO -->
+<div align="center">
+  <img src="banner.svg" alt="Logo">
+</div>
+
 
 ### Author: 
 >
