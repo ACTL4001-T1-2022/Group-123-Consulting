@@ -184,8 +184,8 @@ Below are the risks associated to the national football team project with their 
 | Risk Category | Risk Elaboration | Mitigation Strategy |
 | ------------- | ---------------  | ------------------- |
 | Data Overfitting Risk | The overdependence of player performance datasets across a limited 2 years may lead to overfitting and bias of data resulting in inaccurate reflection of current team performance. | A robust framework was established to regress significant all-rounded criteria in determining the success probabilities for the final team formation. |
+| Assumption Deviation Risk | Rarita’s economic condition and competitiveness in the next 10 years may differ from model expectations and key assumptions. This may lead to deviations of Rarita’s soccer team’s financial forecasts and projected GDP growth. | Sensitivity changes of key assumptions were considered during selection process and economic forecasts to provide adequate sustainability of the national team. |
 
-| Content Cell  | Content Cell  |
 
 ## Data Limitations, Data Sources, and Sensitivity Analysis
 
