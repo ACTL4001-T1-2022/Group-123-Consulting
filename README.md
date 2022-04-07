@@ -221,7 +221,7 @@ The following risk maps rank the 4 relevant risks before and after the implement
 
 
 <h1 align="center">
- <img src="gdppercapita.png" width="680" height="400"/>
+ <img src="Riskmap.png">
 </h1>
 
 
