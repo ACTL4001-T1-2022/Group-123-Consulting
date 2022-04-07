@@ -11,7 +11,7 @@
 * Hiu Ming Yip
 * Yolanda Li
 
-
+## Table of Contents
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary style = "font-size:13pt;">Table of Contents</summary>
