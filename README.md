@@ -86,7 +86,7 @@ Finally, the construction of the national team is reinforced with a 10-year impl
 
 ## Objectives
 
-With a goal to increase Rarita’s global visibility and achieve positive economic impact, Rarita has decided to construct a competitive and sustainable football squad amongst domestic players to enter the world of International Football. The soccer team’s “competitiveness” is further quantified and elaborated in <a href="#executive-summary">Executive Summary</a> With a limited budget of 995 million Doubloons, the project’s objective is to fulfill this goal through a comprehensive team selection process, a resilient risk mitigation framework, along with a detailed implementation plan and economic projections for the next 10 years incorporating a sensitivity analysis. 
+With a goal to increase Rarita’s global visibility and achieve positive economic impact, Rarita has decided to construct a competitive and sustainable football squad amongst domestic players to enter the world of International Football. The soccer team’s “competitiveness” is further quantified and elaborated in <a href="#appendix-a">Appendix A</a>. With a limited budget of 995 million Doubloons, the project’s objective is to fulfill this goal through a comprehensive team selection process, a resilient risk mitigation framework, along with a detailed implementation plan and economic projections for the next 10 years incorporating a sensitivity analysis. 
 
 
 ## Team Selection
@@ -289,3 +289,11 @@ Model would stay within 10% of the expected NPV profit if between 2.34% – 5% i
 <p align="center">
 <img src="footer.png"  width="1000" height="300"/>
 </p>
+
+## Appendices, Methodologies
+###Appendix A : Quantified Measure of A Competitive Team 
+* Rarita’s national team ranking within the top 10 for the International Football and Sporting Association (FSA) for the next season within the first 5 years of entering the tournament. 
+* Secure a high probability of achieving the FSA championship within the first 10 years of entering the tournament 
+
+
+
