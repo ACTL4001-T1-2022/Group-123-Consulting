@@ -240,13 +240,13 @@ League and tournament player statistics and results were provided by SOA and emp
 Changing the championship year affects the expected GDP. Figure 8 shows that the later the championship year, the lower the expected GDP. However, the model still stays within 10% of the expected GDP in the case of not winning at all.
 
 <h1 align="center">
- <img src="SensitivityGDP.png">
+ <img src="SensitivityGDP.png" width="680" height="400"/>
 </h1>
 
 Model would stay within 10% of the expected NPV profit if between 2.34% – 5% inflation rate.
 
 <h1 align="center">
- <img src="SensitivityNPV.png">
+ <img src="SensitivityNPV.png" width="680" height="400"/>
 </h1>
 
 
