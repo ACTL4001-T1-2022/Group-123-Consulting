@@ -178,6 +178,15 @@ Correspondingly, this project would be beneficial to Rarita's microeconomic and 
 
 ## Risk and Risk Mitigation Strategies
 
+Below are the risks associated to the national football team project with their respective mitigation strategies to minimize the material, operational and reputational impact on Rarita.
+
+
+| Risk Category | Risk Elaboration | Mitigation Strategy |
+| ------------- | ---------------  | ------------------- |
+| Data Overfitting Risk | The overdependence of player performance datasets across a limited 2 years may lead to overfitting and bias of data resulting in inaccurate reflection of current team performance. | A robust framework was established to regress significant all-rounded criteria in determining the success probabilities for the final team formation. |
+
+| Content Cell  | Content Cell  |
+
 ## Data Limitations, Data Sources, and Sensitivity Analysis
 
 ## References
