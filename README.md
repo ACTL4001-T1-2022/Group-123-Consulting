@@ -253,8 +253,6 @@ Model would stay within 10% of the expected NPV profit if between 2.34% – 5% i
 </h1>
 
 
-
-
 ## References
 
 
