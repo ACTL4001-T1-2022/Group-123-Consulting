@@ -269,7 +269,7 @@ The following risk maps rank the 4 relevant risks before and after the implement
 League and tournament player statistics and results were provided by SOA and employed for building the team selection model. The Brazil FIFA and GDP data were referenced as a successful football club as for the analysis of a competitive sport team’s impact on the country’s GDP. 
 
 ### Sensitivity Analysis 
-Changing the championship year affects the expected GDP. Figure 8 shows that the later the championship year, the lower the expected GDP. However, the model still stays within 10% of the expected GDP in the case of not winning at all.
+Changing the championship year affects the expected GDP. The figure below shows that the later the championship year, the lower the expected GDP. However, the model still stays within 10% of the expected GDP in the case of not winning at all.
 
 <h1 align="center">
  <img src="SensitivityGDP.png" width="680" height="400"/>
