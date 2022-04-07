@@ -60,6 +60,11 @@ The scouted players are as follows.
 > 
 * _L. Mandala_ as attacking midfielder → Aggressive 4-2-3-1 formation
 * _F. Yunusa_ as defensive midfielder and wingers drop back → Defensive 4-5-1 formation
+
+<p align="center">
+<img src="change.gif"  width="700" height="350"/>
+</p>
+
 ### Other Considerations
 
 ## Economic Impact  
