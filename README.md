@@ -1,5 +1,5 @@
 <p align="center">
-<img src="header.png"  width="800" height="400"/>
+<img src="header.png"  width="1000" height="400"/>
 </p>
 
 
@@ -22,6 +22,34 @@ A final team selection was constructed via rigorous modelling involving logistic
 Finally, the construction of the national team is reinforced with a 10-year implementation plan detailing main events, mitigation strategies of main risks the projects may face and key metrics to monitor team performance.   
 
 > For more details, please visit SOA website
+
+<!-- TABLE OF CONTENTS -->
+<details open>
+  <summary style = "font-size:13pt;">Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About the Project</a>
+    </li>
+    <li>
+      <a href="#project-summary">Project Summary</a>
+      <ol>
+        <li><a href="#rarita-football-team-selection"> Team Selection</a></li>
+        <li><a href="#economic-impact">Economic Impact</a></li>
+      </ol>
+    </li>
+    <li>
+      <a href="#project-methodology">Methodology</a>
+      <ol>
+        <li><a href="#soccer-power-index">Soccer Power Index</a></li>
+        <li><a href="#position-specific-variables">Variables</a></li>
+        <li><a href="#model-analysis">Model Analysis</a></li>
+      </ol>
+    </li>
+    <li>
+      <a href="#conclusion">Conclusion</a>
+    </li>
+  </ol>
+</details>
 
 ## Objectives
 
@@ -193,5 +221,5 @@ Below are the risks associated to the national football team project with their 
 
 
 <p align="center">
-<img src="footer.png"  width="800" height="300"/>
+<img src="footer.png"  width="1000" height="300"/>
 </p>
