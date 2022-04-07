@@ -20,9 +20,12 @@
       <a href="#executive-summary">Executive Summary</a>
     </li>
     <li>
-      <a href="#project-summary">Project Summary</a>
+      <a href="#objectives">Objectives</a>
+    </li>
+    <li>
+      <a href="#team-selection">Team Selection</a>
       <ol>
-        <li><a href="#rarita-football-team-selection"> Team Selection</a></li>
+        <li><a href="#basic-formation"> Basic Formation</a></li>
         <li><a href="#economic-impact">Economic Impact</a></li>
       </ol>
     </li>
