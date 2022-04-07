@@ -32,15 +32,26 @@
       </ol>
     </li>
     <li>
-      <a href="#project-methodology">Methodology</a>
+      <a href="#economic-impact">Economic Impact</a>
       <ol>
-        <li><a href="#soccer-power-index">Soccer Power Index</a></li>
-        <li><a href="#position-specific-variables">Variables</a></li>
-        <li><a href="#model-analysis">Model Analysis</a></li>
+        <li><a href="#revenue-projection">Revenue Projection</a></li>
+        <li><a href="#expense-projection">Expense Projection</a></li>
+        <li><a href="#net-profit-projection">Net Profit Projection</a></li>
+         <li><a href="#gdp-projection">GDP Projection</a></li>
+         <li><a href="#macroeconomics">Macroeconomics</a></li>
       </ol>
     </li>
     <li>
-      <a href="#conclusion">Conclusion</a>
+      <a href="#implementation-plan">Implementation Plan</a>
+    </li>
+    <li>
+      <a href="#assumptions">Assumptions</a>
+      <ol>
+        <li><a href="#key-assumptions">Key Assumptions</a></li>
+        <li><a href="#quantitative-assumptions">Quantitative Assumptions</a></li>
+    </li>
+     <li>
+      <a href="#risk-and-risk-mitigation-strategies">Risk and Risk Mitigation Strategies</a>
     </li>
   </ol>
 </details>
