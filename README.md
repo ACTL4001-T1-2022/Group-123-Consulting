@@ -51,10 +51,14 @@ The 11-player team is formed by analysing past performances of Rarita players in
 The scouted players are as follows.
 
 <h1 align="center">
- <img src="players.jpg" width="803" height="378"/>
+ <img src="players.png" width="803" height="378"/>
 </h1>
 
 ### Alternative Formations
+
+4-3-3 allows flexibility in shifting to other formations. With two midfielders capable of switching to attacker and defender, formations can be modified to approach different situations.
+> _L. Mandala_ as attacking midfielder → Aggressive 4-2-3-1 formation
+> _F. Yunusa_ as defensive midfielder and wingers drop back → Defensive 4-5-1 formation
 ### Other Considerations
 
 ## Economic Impact  
