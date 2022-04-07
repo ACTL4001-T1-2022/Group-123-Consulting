@@ -56,7 +56,7 @@ A final team selection was constructed via rigorous modelling involving logistic
 
 Finally, the construction of the national team is reinforced with a 10-year implementation plan detailing main events, mitigation strategies of main risks the projects may face and key metrics to monitor team performance.   
 
-> For more details, please visit SOA website
+> A detailed outline of the project undertaken can be found via: https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/
 
 ## Objectives
 
