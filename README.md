@@ -320,7 +320,7 @@ Model would stay within 10% of the expected NPV profit if between 2.34% – 5% i
 
 
 ## References
-Brazil at the World Cup. (2022). [Online] 20 March. Available as https://www.topendsports.com/events/worldcupsoccer/countries/brazil.htm (Accessed: 20 March 2022)
+Brazil at the World Cup. (2022). [Online] 20 March. Available at: https://www.topendsports.com/events/worldcupsoccer/countries/brazil.htm (Accessed: 20 March 2022)
 
 Ghosh, S. (2022) Prize money World Cup 2022: FIFA World Cup 2022 Prize money & distribution. Silly Season. [Online] 20 March. Available at: https://sillyseason.com/football/prize-money-fifa-world-cup-116959/ (Accessed: 20 March 2022)
 
