@@ -158,7 +158,7 @@ The balance between old and young players constructs a beneficial cycle for the 
 |:-------------:|:-----------------:|
 |  < 26   |         4         |
 | 26 - 29 |         2         |
-|  > 29 |         6         |
+|  > 29 |         5         |
 
 ## Economic Impact  
 ### Revenue Projection
