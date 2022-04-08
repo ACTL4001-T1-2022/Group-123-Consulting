@@ -341,6 +341,7 @@ Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News
 ### R-Code
 
 
+
 <p align="center">
 <img src="footer.png"  width="1000" height="300"/>
 </p>
