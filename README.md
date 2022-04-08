@@ -277,6 +277,9 @@ The following risk maps rank the 4 relevant risks before and after the implement
  <img src="Riskmap.png">
 </h1>
 
+<p align="center">
+<img src="risk.gif"  width="460" height="435"/>
+</p>
 
 
 ## Data Limitations, Data Sources, and Sensitivity Analysis
