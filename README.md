@@ -323,7 +323,7 @@ Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News
 
 ## Appendices, Methodologies
 ### Appendix A
-**Quantified Measure of A Competitive Team **
+**Quantified Measure of A Competitive Team**
 * Rarita’s national team ranking within the top 10 for the International Football and Sporting Association (FSA) for the next season within the first 5 years of entering the tournament. 
 * Secure a high probability of achieving the FSA championship within the first 10 years of entering the tournament 
 
