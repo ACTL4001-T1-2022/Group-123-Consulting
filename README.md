@@ -313,6 +313,14 @@ Model would stay within 10% of the expected NPV profit if between 2.34% – 5% i
 
 
 ## References
+Brazil at the World Cup. (2022). [Online] 20 March. Available as https://www.topendsports.com/events/worldcupsoccer/countries/brazil.htm (Accessed: 20 March 2022)
+
+Ghosh, S. (2022) Prize money World Cup 2022: FIFA World Cup 2022 Prize money & distribution. Silly Season. [Online] 20 March. Available at: https://sillyseason.com/football/prize-money-fifa-world-cup-116959/ (Accessed: 20 March 2022)
+
+SOA. (2022). Student Research Case Study Challenge. Retrieved from https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/
+
+Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News. [Online] 20 October. Available at: https://ftnnews.com/sports/42685-football-s-importance-in-boosting-uk-inbound-tourism (Accessed: 22 March 2022)
+![image](https://user-images.githubusercontent.com/103116139/162489707-45483325-1aef-46e4-8c00-f18f567d51d7.png)
 
 
 
