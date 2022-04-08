@@ -66,7 +66,7 @@
       <a href="#references">References</a>
     </li>
      <li>
-      <a href="#appendices">Appendix (pending)</a>
+      <a href="#Appendices-Methodologies-and-R-Code">Appendices, Methodologies and R-Code</a>
     </li>
   </ol>
 </details>
