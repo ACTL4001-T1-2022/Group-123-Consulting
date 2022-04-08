@@ -217,7 +217,7 @@ The key steps and projects aiding in building a competitive football team are su
 
 > A 10 year implementation plan
 <h1 align="center">
- <img src="ImplementationPlan.png" width="499" height="234"/>
+ <img src="ImplementationPlan.png" width="800" height="400"/>
 </h1>
 
 ## Assumptions
