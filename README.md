@@ -322,7 +322,7 @@ SOA. (2022). Student Research Case Study Challenge. Retrieved from https://www.s
 Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News. [Online] 20 October. Available at: https://ftnnews.com/sports/42685-football-s-importance-in-boosting-uk-inbound-tourism (Accessed: 22 March 2022)
 
 ## Appendices, Methodologies
-### [Appendix A](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/39ac652c93b0cb7b91b79c840ed93b86be38f1b4/Appendix%20A)
+### [Appendix A:Quantified Measure of A competitive Team](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/39ac652c93b0cb7b91b79c840ed93b86be38f1b4/Appendix%20A)
 
 
 <p align="center">
