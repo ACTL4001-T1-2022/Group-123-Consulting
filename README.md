@@ -142,7 +142,7 @@ Majority of the players come from the same squad; hence the prevailing chemistry
 
 |     Squad     | Number of Players |
 |:-------------:|:-----------------:|
-|  Strong Oaks  |         4         |
+|  Strong Oaks  |         3         |
 | Black Coyotes |         2         |
 |  Other Squads |         6         |
 
@@ -154,9 +154,11 @@ Also, players are evenly distributed at age, this can allow sustainability and l
 
 The balance between old and young players constructs a beneficial cycle for the club’s sustainable development.
 
-<h1 align="center">
- <img src="number.png" width="353" height="120"/>
-</h1>
+|      Age      | Number of Players |
+|:-------------:|:-----------------:|
+|  < 26   |         4         |
+| 26 - 29 |         2         |
+|  > 29 |         6         |
 
 ## Economic Impact  
 ### Revenue Projection
