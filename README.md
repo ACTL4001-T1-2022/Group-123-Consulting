@@ -205,6 +205,15 @@ Along with a booming tourism industry, huge number of employment opportunities a
 Correspondingly, this project would be beneficial to Rarita's microeconomic and macroeconomic sectors. The profit generated could be used to fund other social beneficial projects in the country. Furthermore, with an increased global visibility, the multiplier effect will also boost the impact of tourism and other economic sectors in the country with increased employment rate and tax revenues. 
 
 ## Implementation Plan
+> Rarita’s football team’s success over the next 10 years is aided by thorough planning, ensuring that the trajectory of performance aligns with expectations. Team selection, sources of revenue and spending areas are vital in the team’s success and are investigated in the implementation plan.
+
+The initial team selection is the most crucial step in this project. Additional training and monitoring are required before consolidating players in future matches. Backup players are also selected and trained for contingency scenarios while those undergoing training are lent out to other competing countries, generating extra revenue. As players and competitors naturally improve in skill, the team is reassessed yearly to optimise playing performance.
+
+Spending areas include extensive and highly trained staff. This includes training coaches, administrative positions, and healthcare. As the team improves performance and partakes in additional projects, staff should also be extended to maximise the team’s capability. In a similar vein, training resources and other assets be invested in to mirror team performance. Projected spending areas also include a stadium, serving as a new stream of revenue once the initial investment is made. Becoming a global brand is a key factor to the success as a football team and impacting Rarita’s economy.
+
+To provide for these spending areas, there are multiple revenue streams, including matchday, broadcasting and commercial revenue. Additional revenue streams are through social media marketing, collaborations, and advertising in Rarita’s stadium. 
+
+The key steps and projects aiding in building a competitive football team are summarised in the following timeline. 
 
 ## Assumptions
 ### Key Assumptions
