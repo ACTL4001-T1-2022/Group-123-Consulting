@@ -333,6 +333,8 @@ Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News
 [Appendix A:Quantified Measure of A competitive Team](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/39ac652c93b0cb7b91b79c840ed93b86be38f1b4/Appendix%20A)
 
 ### Methodologies
+[Methodologies](Methodologies.txt)
+[Methodologies](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/41d1bb831c0bd7ca6fd4e06db5582f2f254856ac/Methodologies)
 
 ### R-Code
 
