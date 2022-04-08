@@ -91,7 +91,7 @@ Finally, the construction of the national team is reinforced with a 10-year impl
 
 ## Objectives
 
-With a goal to increase Rarita’s global visibility and achieve positive economic impact, Rarita has decided to construct a competitive and sustainable football squad amongst domestic players to enter the world of International Football. The soccer team’s “competitiveness” is further quantified and elaborated in [Appendix A](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/39ac652c93b0cb7b91b79c840ed93b86be38f1b4/Appendix%20A). With a limited budget of 995 million Doubloons, the project’s objective is to fulfill this goal through a comprehensive team selection process, a resilient risk mitigation framework, along with a detailed implementation plan and economic projections for the next 10 years incorporating a sensitivity analysis. 
+With a goal to increase Rarita’s global visibility and achieve positive economic impact, Rarita has decided to construct a competitive and sustainable football squad amongst domestic players to enter the world of International Football. The soccer team’s “competitiveness” is further quantified and elaborated in [Appendix A](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/9faf9db8a72dbe75aeff34ae65c4e8d5f78321a9/Appendix%20A). With a limited budget of 995 million Doubloons, the project’s objective is to fulfill this goal through a comprehensive team selection process, a resilient risk mitigation framework, along with a detailed implementation plan and economic projections for the next 10 years incorporating a sensitivity analysis. 
 
 
 ## Team Selection
@@ -330,7 +330,8 @@ Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News
 
 ## Appendices, Methodologies and R-Code
 ### Appendices 
-[Appendix A:Quantified Measure of A competitive Team](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/39ac652c93b0cb7b91b79c840ed93b86be38f1b4/Appendix%20A)
+[Appendix A:Quantified Measure of A competitive Team](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/9faf9db8a72dbe75aeff34ae65c4e8d5f78321a9/Appendix%20A)
+[Appendix B: Brazil GDP](Appendix A)
 
 ### Methodologies
 [Methodologies](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/9d499c8baa0867b95c8f75c4c48ad83e6e56fa8f/Methodologies)
