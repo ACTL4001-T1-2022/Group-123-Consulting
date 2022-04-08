@@ -166,7 +166,8 @@ The balance between old and young players constructs a beneficial cycle for the 
 
 The total revenue for Rarita is projected to increase gradually across 2022 to 2031.
 
-The winning prize is estimated using the 2022 FIFA winning prize, the hefty sum of winning the championship will significantly affect revenue growth during the championship year. Other revenue sources will also be impacted by the championship, resulting a sharp increase in total revenue during the championship year. The revenue growth remains relatively stable for all other years.	 
+The winning prize is estimated using the 2022 FIFA winning prize, the hefty sum of winning the championship will significantly affect revenue growth during the championship year. Other revenue sources will also be impacted by the championship, resulting a sharp increase in total revenue during the championship year (see figure below). The revenue growth remains relatively stable for all other years.	 
+
 Additionally, by building a world class football stadium in 2022, supplemental revenue by renting out the venue can be generated. This revenue source is included in the commercial. 
 
 <h1 align="center">
@@ -197,7 +198,7 @@ A positive net profit NPV demonstrates the sustainability and profitability of i
 Rarita’s GDP is estimated by referencing the data of a real-life national football team, Brazil National Football Team, a renowned "competitive" team holding titles to 5 Federation Internationale de Football Association (FIFA) championships since 1930. Winning a championship may have been a significant attribute for GDP growth as shown in the steadily increasing trend in Brazil's GDP for almost 10 years after its last FIFA championship in 2002 [(See Appendix B)](Appendix%20B.png).
 
 
-This observation underpins Rarita’s objectives. Therefore, the GDP growth rate for Brazil was used in projecting Rarita’s expected GDP. Incorporating the population growth, the GDP per Capita for Rarita will increase steadily and ended with ∂ 32,648 in 2031.
+This observation underpins Rarita’s objectives. Therefore, the GDP growth rate for Brazil was used in projecting Rarita’s expected GDP. Incorporating the population growth, the GDP per Capita for Rarita will increase steadily and ended with ∂ 32,648 in 2031 (see figure below).
 
 The figure below shows that the GDP per Capita for East Rarita would be the highest among the three provinces, while West Rarita would be the lowest. This can be accounted to the population differences in the three provinces.
 
