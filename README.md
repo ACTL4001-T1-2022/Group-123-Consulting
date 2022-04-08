@@ -82,7 +82,7 @@ A final team selection was constructed via rigorous modelling involving logistic
 
 Finally, the construction of the national team is reinforced with a 10-year implementation plan detailing main events, mitigation strategies of main risks the projects may face and key metrics to monitor team performance.   
 
-> A detailed outline of the project undertaken can be found via: https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/
+> A detailed outline of the project undertaken can be found via: [SOA 2022 Student Research Case Study Challenge] https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/
 
 ## Objectives
 
@@ -321,7 +321,7 @@ SOA. (2022). Student Research Case Study Challenge. Retrieved from https://www.s
 
 Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News. [Online] 20 October. Available at: https://ftnnews.com/sports/42685-football-s-importance-in-boosting-uk-inbound-tourism (Accessed: 22 March 2022)
 
-## Appendices, Methodologies
+## Appendices, Methodologies and R-Code
 ### [Appendix A:Quantified Measure of A competitive Team](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/39ac652c93b0cb7b91b79c840ed93b86be38f1b4/Appendix%20A)
 
 
