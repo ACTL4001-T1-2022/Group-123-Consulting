@@ -220,6 +220,16 @@ The key steps and projects aiding in building a competitive football team are su
  <img src="ImpPlan.png" width="800" height="380"/>
 </h1>
 
+To ensure that these steps are effective, key metrics are regularly reported. These metrics address both the function of the team internally and its wider impact on Rarita.
+
+|    Metric           | Reporting Frequency |           Impact           |
+| ------------------- | ------------------  | -------------------------- |
+| Rarita GDP | Annual | Monitor the influence of competitive sports team on country GDP.|
+| Conversion rate | Annual | Determine state of the economy through currency movements.|
+| Rank in tournament | Annual | Observe the change in position and performance of Rarita’s football team.|
+| Probability of success in tournament | Annual | Ensure the sports team remains competitive among dynamic competing teams.|
+| Social media following | Semi-annual | Monitor following as the popularity of the team has strong correlation with incoming revnue (commericals, broadcasting and sponsorships.|
+
 ## Assumptions
 ### Key Assumptions
 **Football Team**
