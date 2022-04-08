@@ -194,7 +194,8 @@ A positive net profit NPV demonstrates the sustainability and profitability of i
 
 ### GDP Projection
 
-Rarita’s GDP is estimated by referencing the data of a real-life national football team, Brazil National Football Team, a renowned "competitive" team holding titles to 5 Federation Internationale de Football Association (FIFA) championships since 1930. Winning a championship may have been a significant attribute for GDP growth as shown in the steadily increasing trend in Brazil's GDP for almost 10 years after its last FIFA championship in 2002. 
+Rarita’s GDP is estimated by referencing the data of a real-life national football team, Brazil National Football Team, a renowned "competitive" team holding titles to 5 Federation Internationale de Football Association (FIFA) championships since 1930. Winning a championship may have been a significant attribute for GDP growth as shown in the steadily increasing trend in Brazil's GDP for almost 10 years after its last FIFA championship in 2002 [(See Appendix B)](Appendix%20B.png).
+
 
 This observation underpins Rarita’s objectives. Therefore, the GDP growth rate for Brazil was used in projecting Rarita’s expected GDP. Incorporating the population growth, the GDP per Capita for Rarita will increase steadily and ended with ∂ 32,648 in 2031.
 
