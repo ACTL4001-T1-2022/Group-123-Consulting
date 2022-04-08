@@ -68,15 +68,14 @@
      <li>
       <a href="#Appendices-Methodologies-and-R-Code">Appendices, Methodologies and R-Code</a>
        <ol>
-        <li><a href="#Appendix-A-Quantified-Measure-of-A-competitive-Team">Appendix A:Quantified Measure of A competitive Team</a></li>
-        <li><a href="#Data-Sources">Data Sources</a></li>
-        <li><a href="#Sensitivity-Analysis">Sensitivity Analysis</a></li>
+        <li><a href="#Appendices">Appendices</a></li>
+        <li><a href="#Methodologies">Methodologies</a></li>
+        <li><a href="#R-Code">R-Code</a></li>
        </ol>
     </li>
   </ol>
 </details>
 
-Appendix A:Quantified Measure of A competitive Team
 
 ## Executive Summary
 
