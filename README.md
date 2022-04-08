@@ -214,8 +214,6 @@ Spending areas include extensive and highly trained staff. This includes trainin
 To provide for these spending areas, there are multiple revenue streams, including matchday, broadcasting and commercial revenue. Additional revenue streams are through social media marketing, collaborations, and advertising in Rarita’s stadium. 
 
 The key steps and projects aiding in building a competitive football team are summarised in the following timeline. 
-
-> A 10 year implementation plan
 <h1 align="center">
  <img src="ImpPlan.png" width="800" height="380"/>
 </h1>
