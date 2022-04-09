@@ -134,6 +134,14 @@ Full Rarita domestic players are selected to play for the national team. There a
 
 Majority of the players come from the same squad; hence the prevailing chemistry can enhance overall performance of team and reduce training time for team bonding.  
 
+<div align="center">
+ 
+COLUMN&nbsp;&nbsp;&nbsp;1 |  COLUMN 2   
+:---:  | ---: 
+center | right
+
+</div>
+<div>
 
 |     Squad     | Number of Players |
 |:-------------:|:-----------------:|
