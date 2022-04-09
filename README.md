@@ -145,11 +145,6 @@ Other Squads | 6
 </div>
 <div>
 
-|     Squad     | Number of Players |
-|:-------------:|:-----------------:|
-|  Strong Oaks  |         3         |
-| Black Coyotes |         2         |
-|  Other Squads |         6         |
 
 
 Also, players are evenly distributed at age, this can allow sustainability and long-term development of the club.
@@ -159,11 +154,16 @@ Also, players are evenly distributed at age, this can allow sustainability and l
 
 The balance between old and young players constructs a beneficial cycle for the club’s sustainable development.
 
-|      Age      | Number of Players |
-|:-------------:|:-----------------:|
-|  < 26   |         4         |
-| 26 - 29 |         2         |
-|  > 29 |         5         |
+<div align="center">
+ 
+Age |  Number of Players 
+:---:  | :---: 
+< 26 | 4
+26 - 29 | 2
+> 29 | 5
+
+</div>
+<div>
 
 ## Economic Impact  
 
