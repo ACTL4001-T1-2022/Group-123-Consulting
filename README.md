@@ -138,13 +138,9 @@ Majority of the players come from the same squad; hence the prevailing chemistry
   
 
   |     Squad     | Number of Players |
-
   |:-------------:|:-----------------:|
-
   |  Strong Oaks  |         3         |
-
   | Black Coyotes |         2         |
-
   |  Other Squads |         6         |
 
 </div>  
