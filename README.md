@@ -244,20 +244,19 @@ To ensure that these steps are effective, key metrics are regularly reported. Th
   * Assumed to be a “competitive” team for the other years
 
 ### Quantitative Assumptions
-**GDP Projection**
+* **GDP Projection**
 
-* GDP growth is calculated by using Brazil’s 1999–2008 national football team data as a benchmark where 2002 is the championship year.
-* GDP growth rate: 2.32% before championship; 4.20% after championship
-* Annual population growth for East Rarita is 0.67%; Central Rarita is 0.04%; and West Rarita is 0.57%
+  * GDP growth is calculated by using Brazil’s 1999–2008 national football team data as a benchmark where 2002 is the championship year.
+  * GDP growth rate: 2.32% before championship; 4.20% after championship
+  * Annual population growth for East Rarita is 0.67%; Central Rarita is 0.04%; and West Rarita is 0.57%
 
-**Inflation Rate – 3.59%**
+* **Inflation Rate – 3.59%**
 
-**Expense Projection**
+* **Expense Projection**
 
-* A constant growth rate of 4% for 2023-2031
-* 0.88 Euro/USD conversion rate 
-* 0.009 Doubloons/Euro conversion rate. 
-
+  * A constant growth rate of 4% for 2023-2031
+  * 0.88 Euro/USD conversion rate 
+  * 0.009 Doubloons/Euro conversion rate. 
 
 ## Risk and Risk Mitigation Strategies
 
