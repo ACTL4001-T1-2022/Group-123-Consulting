@@ -143,7 +143,6 @@ Black Coyotes | 2
 Other Squads | 6
 
 </div>
-<div>
 
 
 
