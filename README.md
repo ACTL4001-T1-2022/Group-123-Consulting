@@ -230,18 +230,18 @@ To ensure that these steps are effective, key metrics are regularly reported. Th
 
 ## Assumptions
 ### Key Assumptions
-**Football Team**
+* **Football Team**
 
-* Performance not deviated from the past
-* Teams not changed or improved in skill
-* No home or away team advantages or disadvantages
-* No loaning of players between nations during 2020 and 2021 tournaments 
-* Winning probabilities from tournaments are tied to all individuals in the nation’s soccer teams 
+  * Performance not deviated from the past
+  * Teams not changed or improved in skill
+  * No home or away team advantages or disadvantages
+  * No loaning of players between nations during 2020 and 2021 tournaments 
+  * Winning probabilities from tournaments are tied to all individuals in the nation’s soccer teams 
 
-**Championship year**
+* **Championship year**
 
-* Assumed that a win in 2025.
-* Assumed to be a “competitive” team for the other years
+  * Assumed that a win in 2025.
+  * Assumed to be a “competitive” team for the other years
 
 ### Quantitative Assumptions
 **GDP Projection**
