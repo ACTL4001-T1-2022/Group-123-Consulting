@@ -1,7 +1,6 @@
 <p align="center">
-<img src="banner.svg"  width="950" height="320"/>
+<img src="banner.svg"  width="1000" height="320"/>
 </p>
-
 
 ### Author: 
 >
@@ -76,7 +75,6 @@
   </ol>
 </details>
 
-
 ## Executive Summary
 
 In light of recent trends where “competitive” sport teams have benefited one’s economy considerably, this project is jointly executed with Rarita’s Commissioner of sport, Hammessi Bayes to construct a sustainable and “competitive” national team with a goal of achieving positive economic impact for Rarita. An initial fund of 995 million Doubloons (∂) were allocated for the project with additional capital raised through various revenue streams outlined within the report. 
@@ -90,14 +88,12 @@ Finally, the construction of the national team is reinforced with a 10-year impl
 > A detailed outline of the project undertaken can be found via: [SOA 2022 Student Research Case Study Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)
 
 ## Objectives
-
 With a goal to increase Rarita’s global visibility and achieve positive economic impact, Rarita has decided to construct a competitive and sustainable football squad amongst domestic players to enter the world of International Football. The soccer team’s “competitiveness” is further quantified and elaborated in [Appendix A](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/9faf9db8a72dbe75aeff34ae65c4e8d5f78321a9/Appendix%20A). With a limited budget of 995 million Doubloons, the project’s objective is to fulfill this goal through a comprehensive team selection process, a resilient risk mitigation framework, along with a detailed implementation plan and economic projections for the next 10 years incorporating a sensitivity analysis. 
 
 
 ## Team Selection
 
 ### Basic Formation
-
 4-3-3 was chosen as the main formation of the team consisting of 3 forwards, 3 midfielders, 4 defenders, and 1 goalkeeper. This provides more tactical flexibility to strike a balance between offensive and defensive strategies by adjusting the midfielders to form other connotations like 4-5-1 and 4-2-3-1. Detailed positions of each player are illustrated below.
 
 > _The formation of proposed football team_
@@ -107,9 +103,8 @@ With a goal to increase Rarita’s global visibility and achieve positive econom
 </h1>
 
 ### Player Selection
-
 The 11-player team is formed by analysing past performances of Rarita players in the league. The scouting methodology is based on 
->
+
 * Construct a logistic regression model trained by tournament results of other countries in 2021 categorized by positions
 * Consider the average strengths of players in the same position and returns the success probability of achieving top 10 in the tournament
 * Best subset selection was used to filter the suitable factors contributing to the success of the team
@@ -123,7 +118,7 @@ The 11-player team is formed by analysing past performances of Rarita players in
 ### Alternative Formations
 
 4-3-3 allows flexibility in shifting to other formations. With two midfielders capable of switching to attacker and defender, formations can be modified to approach different situations.
-> 
+
 * _L. Mandala_ as attacking midfielder → Aggressive 4-2-3-1 formation
 * _F. Yunusa_ as defensive midfielder and wingers drop back → Defensive 4-5-1 formation
 
@@ -133,7 +128,7 @@ The 11-player team is formed by analysing past performances of Rarita players in
 
 ### Other Considerations
 Full Rarita domestic players are selected to play for the national team. There are 2 major advantages:
-> 
+
 * _Patriotism motivation_ - Players with a sense of belonging can perform better when they are playing for their country
 * _Reduce cost of loaning_ - Loaning players from other nations may cost extra variable expenses to the football team. 
 
@@ -148,7 +143,7 @@ Majority of the players come from the same squad; hence the prevailing chemistry
 
 
 Also, players are evenly distributed at age, this can allow sustainability and long-term development of the club.
->
+
 * Experience old players can lead the team when the team is at the beginning of establishment.
 * Young players can stand alone after years of training and matches.
 
@@ -161,9 +156,8 @@ The balance between old and young players constructs a beneficial cycle for the 
 |  > 29 |         5         |
 
 ## Economic Impact  
+
 ### Revenue Projection
-
-
 The total revenue for Rarita is projected to increase gradually across 2022 to 2031.
 
 The winning prize is estimated using the 2022 FIFA winning prize, the hefty sum of winning the championship will significantly affect revenue growth during the championship year. Other revenue sources will also be impacted by the championship, resulting a sharp increase in total revenue during the championship year (see figure below). The revenue growth remains relatively stable for all other years.	 
@@ -175,7 +169,6 @@ Additionally, by building a world class football stadium in 2022, supplemental r
 </h1>
 
 ### Expense Projection
-
 The total expense includes two main categories, staff costs and other expenses. Of which, ∂99.86 million is attributed to the salary of football players.
 
 The total expense for Rarita is expected to be higher in 2022 due to initial costs such as the stadium construction which costs approximately ∂520 million, developing team selection model, staff hiring, building training amenities and other facilities.
@@ -185,7 +178,6 @@ The total expense for Rarita is expected to be higher in 2022 due to initial cos
 </h1>
 
 ### Net Profit Projection
-
 Rarita will experience loss for the first two years due to the large allocation to the stadium construction, however, will achieve a positive net profit for the remaining years. Despite the negative net profits, the initial investment of ∂ 995 million will act as a buffer to offset those losses. 
 A positive net profit NPV demonstrates the sustainability and profitability of investing in a national football team.
 
@@ -194,9 +186,7 @@ A positive net profit NPV demonstrates the sustainability and profitability of i
 </h1>
 
 ### GDP Projection
-
 Rarita’s GDP is estimated by referencing the data of a real-life national football team, Brazil National Football Team, a renowned "competitive" team holding titles to 5 Federation Internationale de Football Association (FIFA) championships since 1930. Winning a championship may have been a significant attribute for GDP growth as shown in the steadily increasing trend in Brazil's GDP for almost 10 years after its last FIFA championship in 2002 [(See Appendix B)](Appendix%20B.png).
-
 
 This observation underpins Rarita’s objectives. Therefore, the GDP growth rate for Brazil was used in projecting Rarita’s expected GDP. Incorporating the population growth, the GDP per Capita for Rarita will increase steadily and ended with ∂ 32,648 in 2031 (see figure below).
 
@@ -207,13 +197,10 @@ The figure below shows that the GDP per Capita for East Rarita would be the high
 </h1>
 
 ### Macroeconomics
-
 #### Tourism
-
 A competitive football match may increase tourism as illustrated in the ‘Football Tourism in the UK’ report where 1.4 billion dollars were spent by overseas visitors who attended football matches across UK in 2019. The impact of a competitive football match not only adds revenue towards the commercial, broadcasting and matchday sectors for Rarita’s National Football Team, but it also generates indirect stream of revenues in via their consumptions. 
 
 #### Employment Rate
-
 Along with a booming tourism industry, huge number of employment opportunities are created through hospitality and travel services. Furthermore, this direct employment effect generates even more stream of revenues through secondary workforce demand to accommodate for the additional inflow of tourists. 
 Correspondingly, this project would be beneficial to Rarita's microeconomic and macroeconomic sectors. The profit generated could be used to fund other social beneficial projects in the country. Furthermore, with an increased global visibility, the multiplier effect will also boost the impact of tourism and other economic sectors in the country with increased employment rate and tax revenues. 
 
@@ -252,13 +239,13 @@ To ensure that these steps are effective, key metrics are regularly reported. Th
 * Winning probabilities from tournaments are tied to all individuals in the nation’s soccer teams 
 
 **Championship year**
->
+
 * Assumed that a win in 2025.
 * Assumed to be a “competitive” team for the other years
 
 ### Quantitative Assumptions
 **GDP Projection**
->
+
 * GDP growth is calculated by using Brazil’s 1999–2008 national football team data as a benchmark where 2002 is the championship year.
 * GDP growth rate: 2.32% before championship; 4.20% after championship
 * Annual population growth for East Rarita is 0.67%; Central Rarita is 0.04%; and West Rarita is 0.57%
@@ -266,7 +253,7 @@ To ensure that these steps are effective, key metrics are regularly reported. Th
 **Inflation Rate – 3.59%**
 
 **Expense Projection**
->
+
 * A constant growth rate of 4% for 2023-2031
 * 0.88 Euro/USD conversion rate 
 * 0.009 Doubloons/Euro conversion rate. 
@@ -296,7 +283,6 @@ The following risk maps rank the 4 relevant risks before and after the implement
 
 
 ## Data Limitations, Data Sources, and Sensitivity Analysis
-
 ### Data Limitations 
 * An aggregate 8% of missing values were computed within given datasets, and this may cause significant bias against players of high potentials. 
 * Data anomalies were found where key performance figures displayed negative percentages and percentage values over 100%. Hence, to ensure the validity of the dataset, these obstructive data points were replaced by 0% and 100% respectively. 
@@ -319,23 +305,24 @@ Model would stay within 10% of the expected NPV profit if between 2.34% – 5% i
  <img src="SensitivityNPV.png" width="680" height="400"/>
 </h1>
 
-
-
 ## References
-Brazil at the World Cup. (2022). [Online] 20 March. Available at: https://www.topendsports.com/events/worldcupsoccer/countries/brazil.htm (Accessed: 20 March 2022)
+Brazil at the World Cup. (2022). [Online] 20 March. Available at: <https://www.topendsports.com/events/worldcupsoccer/countries/brazil.htm> (Accessed: 20 March 2022)
 
-Ghosh, S. (2022) Prize money World Cup 2022: FIFA World Cup 2022 Prize money & distribution. Silly Season. [Online] 20 March. Available at: https://sillyseason.com/football/prize-money-fifa-world-cup-116959/ (Accessed: 20 March 2022)
+Ghosh, S. (2022) Prize money World Cup 2022: FIFA World Cup 2022 Prize money & distribution. Silly Season. [Online] 20 March. Available at: <https://sillyseason.com/football/prize-money-fifa-world-cup-116959/> (Accessed: 20 March 2022)
 
 SOA. (2022). Student Research Case Study Challenge. Retrieved from <https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/>
 
-Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News. [Online] 20 October. Available at: https://ftnnews.com/sports/42685-football-s-importance-in-boosting-uk-inbound-tourism (Accessed: 22 March 2022)
+Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News. [Online] 20 October. Available at: <https://ftnnews.com/sports/42685-football-s-importance-in-boosting-uk-inbound-tourism> (Accessed: 22 March 2022)
 
 ## Appendices, Methodologies and R-Code
 ### Appendices 
 [Appendix A: Quantified Measure of A Competitive Team](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/9faf9db8a72dbe75aeff34ae65c4e8d5f78321a9/Appendix%20A)\
 [Appendix B: Brazil GDP](Appendix%20B.png)\
-[Appendix C: GDP Projection in Rarita provinces](Appendix%20C.png)
-
+[Appendix C: GDP Projection in Rarita provinces](Appendix%20C.png)\
+[Appendix D: Revenue Projection Expanded](Appendix%20C.png)\
+[Appendix E: Expense Projection Expanded](Appendix%20C.png)\
+[Appendix F: Profit Projection Expanded](Appendix%20C.png)\
+[Appendix G: Assumption Expanded](Appendix%20C.png)\
 
 ### Methodologies
 [Methodologies](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/9d499c8baa0867b95c8f75c4c48ad83e6e56fa8f/Methodologies)
@@ -343,8 +330,7 @@ Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News
 ### R-Code
 
 
-
 <p align="center">
-<img src="footer.png"  width="1000" height="300"/>
+<img src="footer.png"  width="1000" height="320"/>
 </p>
 
