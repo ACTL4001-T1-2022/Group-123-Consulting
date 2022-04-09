@@ -142,8 +142,6 @@ Majority of the players come from the same squad; hence the prevailing chemistry
 | Black Coyotes |         2         |
 |  Other Squads |         6         |
 
-</div>
-
 Also, players are evenly distributed at age, this can allow sustainability and long-term development of the club.
 
 * Experience old players can lead the team when the team is at the beginning of establishment.
