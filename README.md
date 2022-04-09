@@ -96,6 +96,7 @@ With a goal to increase Rarita’s global visibility and achieve positive econom
 ### Basic Formation
 4-3-3 was chosen as the main formation of the team consisting of 3 forwards, 3 midfielders, 4 defenders, and 1 goalkeeper. This provides more tactical flexibility to strike a balance between offensive and defensive strategies by adjusting the midfielders to form other connotations like 4-5-1 and 4-2-3-1. Detailed positions of each player are illustrated below.
 
+
 > _The formation of proposed football team_
 
 <h1 align="center">
@@ -105,7 +106,7 @@ With a goal to increase Rarita’s global visibility and achieve positive econom
 ### Player Selection
 The 11-player team is formed by analysing past performances of Rarita players in the league. The scouting methodology is based on 
 
-* Construct a logistic regression model trained by tournament results of other countries in 2021 categorized by positions
+* Construct a logistic regression model trained by tournament results of other countries in 2021 categorized by positions (Model: [Click here](rcode.R))
 * Consider the average strengths of players in the same position and returns the success probability of achieving top 10 in the tournament
 * Best subset selection was used to filter the suitable factors contributing to the success of the team
 
