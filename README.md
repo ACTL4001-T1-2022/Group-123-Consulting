@@ -270,10 +270,6 @@ Below are the risks associated to the national football team project with their 
 
 The following risk maps rank the 4 relevant risks before and after the implementation of mitigation strategies outlined on a scale to 1 to 5 for the likelihood of it occurring as well as the impact it may have on Rarita. Risks that should be prioritized due to its high severity and probability are located at the top right corner of the graph.
 
-<h1 align="center">
- <img src="Riskmap.png">
-</h1>
-
 <p align="center">
 <img src="riskmapgif.gif"  width="460" height="435"/>
 </p>
