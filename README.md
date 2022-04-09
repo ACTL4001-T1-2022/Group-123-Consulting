@@ -134,7 +134,7 @@ Full Rarita domestic players are selected to play for the national team. There a
 
 Majority of the players come from the same squad; hence the prevailing chemistry can enhance overall performance of team and reduce training time for team bonding.  
 
-.center[
+<div align="center">
 
 |     Squad     | Number of Players |
 |:-------------:|:-----------------:|
@@ -142,7 +142,8 @@ Majority of the players come from the same squad; hence the prevailing chemistry
 | Black Coyotes |         2         |
 |  Other Squads |         6         |
 
-]
+</div>
+<div>
 
 Also, players are evenly distributed at age, this can allow sustainability and long-term development of the club.
 
