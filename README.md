@@ -65,11 +65,11 @@
       <a href="#references">References</a>
     </li>
      <li>
-      <a href="#Appendices-Methodologies-and-R-Code">Appendices, Methodologies and R-Code</a>
+      <a href="#Appendices-Methodologies-and-R-Code">Appendices, Methodologies and R Code</a>
        <ol>
         <li><a href="#Appendices">Appendices</a></li>
         <li><a href="#Methodologies">Methodologies</a></li>
-        <li><a href="#R-Code">R-Code</a></li>
+        <li><a href="#R-Code">R Code</a></li>
        </ol>
     </li>
   </ol>
