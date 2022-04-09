@@ -326,7 +326,7 @@ Brazil at the World Cup. (2022). [Online] 20 March. Available at: https://www.to
 
 Ghosh, S. (2022) Prize money World Cup 2022: FIFA World Cup 2022 Prize money & distribution. Silly Season. [Online] 20 March. Available at: https://sillyseason.com/football/prize-money-fifa-world-cup-116959/ (Accessed: 20 March 2022)
 
-SOA. (2022). Student Research Case Study Challenge. Retrieved from https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/
+SOA. (2022). Student Research Case Study Challenge. Retrieved from <https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/>
 
 Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News. [Online] 20 October. Available at: https://ftnnews.com/sports/42685-football-s-importance-in-boosting-uk-inbound-tourism (Accessed: 22 March 2022)
 
