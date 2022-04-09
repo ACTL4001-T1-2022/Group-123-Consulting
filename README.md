@@ -143,7 +143,7 @@ Black Coyotes | 2
 Other Squads | 6
 
 </div>
-
+<div>
 
 
 Also, players are evenly distributed at age, this can allow sustainability and long-term development of the club.
