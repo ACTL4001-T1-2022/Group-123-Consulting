@@ -143,7 +143,6 @@ Majority of the players come from the same squad; hence the prevailing chemistry
 |  Other Squads |         6         |
 
 </div>
-<div>
 
 Also, players are evenly distributed at age, this can allow sustainability and long-term development of the club.
 
