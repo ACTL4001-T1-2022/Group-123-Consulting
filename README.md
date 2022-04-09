@@ -137,7 +137,7 @@ Majority of the players come from the same squad; hence the prevailing chemistry
 <div align="center">
  
 Squad |  Number of Players 
-:---:  | ---: 
+:---:  | :---: 
 Strong Oaks | 3
 
 </div>
