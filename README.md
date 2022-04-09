@@ -136,9 +136,9 @@ Majority of the players come from the same squad; hence the prevailing chemistry
 
 <div align="center">
  
-COLUMN 1 |  COLUMN 2   
+Squad |  Number of Players 
 :---:  | ---: 
-center | right
+Strong Oaks | 3
 
 </div>
 <div>
