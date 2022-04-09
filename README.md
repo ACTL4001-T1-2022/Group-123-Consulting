@@ -231,7 +231,7 @@ To ensure that these steps are effective, key metrics are regularly reported. Th
 ## Assumptions
 ### Key Assumptions
 **Football Team**
->
+
 * Performance not deviated from the past
 * Teams not changed or improved in skill
 * No home or away team advantages or disadvantages
