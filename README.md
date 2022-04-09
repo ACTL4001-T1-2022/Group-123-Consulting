@@ -136,7 +136,7 @@ Majority of the players come from the same squad; hence the prevailing chemistry
 
 <div align="center">
  
-COLUMN&nbsp;&nbsp;&nbsp;1 |  COLUMN 2   
+COLUMN 1 |  COLUMN 2   
 :---:  | ---: 
 center | right
 
