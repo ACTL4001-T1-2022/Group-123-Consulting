@@ -315,7 +315,7 @@ Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News
 [Appendix C: GDP Projection in Rarita provinces](Appendix%20C.csv)\
 [Appendix D: 10 Year Revenue Projection](Appendix%20D.csv)\
 [Appendix E: 10 Year Expense Projection](Appendix%20E.csv)\
-[Appendix F: Profit Projection Expanded](Appendix%20F.csv)\
+[Appendix F: 10 Year Profit Projection](Appendix%20F.csv)\
 [Appendix G: Assumption Expanded](Appendix%20G.csv)
 
 ### Methodologies
