@@ -316,7 +316,7 @@ Tore, O. (2021) Football’s Importance in Boosting UK Inbound Tourism, Ftn News
 [Appendix D: 10 Year Revenue Projection](Appendix%20D.csv)\
 [Appendix E: 10 Year Expense Projection](Appendix%20E.csv)\
 [Appendix F: 10 Year Profit Projection](Appendix%20F.csv)\
-[Appendix G: Assumption Expanded](Appendix%20G.csv)
+[Appendix G: Additional Assumptions](Appendix%20G.csv)
 
 ### Methodologies
 [Methodologies](https://github.com/ACTL4001-T1-2022/Group-123-Consulting/blob/9d499c8baa0867b95c8f75c4c48ad83e6e56fa8f/Methodologies)
