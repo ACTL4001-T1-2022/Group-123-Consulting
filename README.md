@@ -104,11 +104,11 @@ With a goal to increase Rarita’s global visibility and achieve positive econom
 </h1>
 
 ### Player Selection
-The 11-player team is formed by analysing past performances of Rarita players in the league. The scouting methodology is based on 
+The 11-player team is formed by analysing past performances of Rarita players in the league. The scouting methodology is as follows:
 
 * Construct a logistic regression model trained by tournament results of other countries in 2021 categorized by positions (Model: [Click here](rcode.R))
-* Consider the average strengths of players in the same position and returns the success probability of achieving top 10 in the tournament
-* Best subset selection was used to filter the suitable factors contributing to the success of the team
+* Consider the average strengths of players in the same position and return the success probability of achieving top 10 in the tournament
+* For each position, use best subset selection to filter the suitable factors contributing to the success of the team
 
 > _Scouted players_
 
